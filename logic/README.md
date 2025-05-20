@@ -1,0 +1,1 @@
+Classic logic ideas implementations
